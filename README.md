@@ -1,2 +1,2 @@
 # Ordered-and-unordered-lists
-Some nice ordered and unordered things about meaningless/meaningful things.
+Some nice ordered and unordered lists about meaningless/meaningful things.
